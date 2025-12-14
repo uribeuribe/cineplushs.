@@ -158,3 +158,15 @@
 
 </body>
 </html>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://uribeuribe.github.io/cineplus/</loc>
+    <lastmod>2025-12-13</lastmod>
+    <priority>1.00</priority>
+  </url>
+</urlset>
+User-agent: *
+Allow: /
+
+Sitemap: https://uribeuribe.github.io/cineplus/sitemap.xml
